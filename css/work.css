@@ -1,0 +1,16 @@
+body{
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.space {
+  margin: 100px;
+}
+
+.pub {
+  font-size: 30px;
+  text-color: red;
+}
