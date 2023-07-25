@@ -1,14 +1,13 @@
 body {
   margin-top: 0;
   margin-bottom: 0;
-  margin: 0 !important;
-  padding: 0 !important;
 }
 
 header {
   background-color: #D3D3D3;
   padding-top: 1.5em;
   padding-bottom: .05em;
+  padding
 }
 
 h1 {
@@ -67,8 +66,7 @@ footer {
 }
 
 #About-Me {
-  padding-top: 30px;
-  padding-bottom: 20px;
+  padding: 3.5em 7em;
   background-color: WhiteSmoke;
 }
 
